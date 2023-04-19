@@ -8,7 +8,7 @@
 6. Tem alguma experiência com desenvolvimento de Serviços _Rest_? Não
 7. Tem conhecimento sobre bancos de dados relacionais? Sim
 8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)? Não
-9. Tem conta no _github_? Sim
+9. Tem conta no _github_? Sim 
   9.1.  Informe o nome do seu usuário no _github_; Guilherme-Abraao
 10. Você possui algum impedimento para trabalhar em equipe? Não
 11. Você possui equipamento adequado para a implementação das atividades relacionadas à disciplina? Sim
