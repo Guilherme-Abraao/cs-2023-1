@@ -41,7 +41,12 @@ Uma API Rest é uma API que está em conformidade com as restrições arquitetur
 - Nunca deixar o cliente sem resposta;
 - Usar ou singular ou plural na criação dos endpoints.
 
+# Referências Bibliográficas
 
+https://www.youtube.com/watch?v=ghTrp1x_1As&ab_channel=Rocketseat 
+https://github.com/rocketseat-content/youtube-api-rest-restful  
+https://www.youtube.com/watch?v=AiZ-DZXe830&ab_channel=PedroImpulcetto
+https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api
 
 
 
